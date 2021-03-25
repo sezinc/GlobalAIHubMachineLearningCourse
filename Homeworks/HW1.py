@@ -16,12 +16,13 @@ Homework 1
 	1.Veri seçme: Verilerin hepsini değil bizim için gerekli veriler seçilmeli
 	2.Veri ön işleme: Biçimlendirme; veriler csv gibi bir veri formatına çevrilir.
 		          Temizleme; eksik veriler istatiksel yöntemlerle düzenlenebilir.
-			  Örnekleme
+			  Örnekleme; çok fazla veri varsa, bu veri setinden örnek olabilecek daha küçük veri seti alınır.
+	3.Veri dönüştürme:Ölçekleme, Ayrıştırma, Toplama
+	
 
 5) How you can explore countionus and discrete variables?
+	Discrete(ayrık); Tam sayı değerler
+	Countionus(sürekli): Bir aralıktaki herhangibir değer alabilir
+
 6) Analyse the plot given below. (What is the plot and variable type, check the distribution and make comment about how you can preproccess it.)
-
-In [1]:
-
-Out[1]:
-<matplotlib.axes._subplots.AxesSubplot at 0x2b8ced01320>
+matplotlib, countionus
